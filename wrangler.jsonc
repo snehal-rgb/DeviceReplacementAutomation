@@ -1,7 +1,0 @@
-{
-  "name": "device-replacement-automation",
-  "main": "src/worker.mjs",
-  "compatibility_date": "2026-11-13",
-  "workers_dev": true,
-  "keep_vars": true
-}
