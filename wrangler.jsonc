@@ -3,5 +3,5 @@
   "main": "src/worker.mjs",
   "compatibility_date": "2026-11-13",
   "workers_dev": true,
-  "vars": {"SLACK_TEAM_ID": "", "SLACK_BOT_USER_ID": ""}
+  "keep_vars": true
 }
